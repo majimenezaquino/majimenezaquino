@@ -34,4 +34,14 @@ I believe in continuous learning and keeping up with the latest technologies and
 Let's Work Together!
 If you're looking for a reliable and experienced software developer who can bring your ideas to life, then look no further! I am always open to new opportunities and would love to discuss how I can help with your project.
 
-Feel free to contact me at [YOUR EMAIL] to discuss your project or to learn more about my experience and skills.
+
+## Contact Information
+Email: migueljimenezaquino@gmail.com
+
+LinkedIn: [https://www.linkedin.com/in/majimenezaquino/](https://www.linkedin.com/in/majimenezaquino/)
+
+GitHub: [https://github.com/majimenezaquino](https://github.com/majimenezaquino/majimenezaquino)
+
+Twitter: [https://twitter.com/majimenezz](https://twitter.com/majimenezz)
+
+Instagram: [https://www.instagram.com/majimenezaquino/](https://www.instagram.com/majimenezaquino/)
